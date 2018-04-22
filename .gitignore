@@ -1,0 +1,15 @@
+.idea/compiler.xml
+.idea/copyright/
+.idea/libraries/Maven__com_ekassa_lending_shared_1_0_SNAPSHOT.xml
+.idea/misc.xml
+.idea/workspace.xml
+EkassaAuto.iml
+shared/target/
+target/
+/lending.iml
+/ekassa.iml
+/.idea/
+./src/main/java
+./src/main/groovy
+/src/main/webapp/node_modules/
+/src/main/webapp/gulpfile.js
